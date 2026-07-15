@@ -1,0 +1,1 @@
+- Personenpunkte (personenpunkte): vorname[string/text], nachname[string/text], email[string/email], kategorie[lookup/select], punkte[number], bemerkung[string/textarea]
